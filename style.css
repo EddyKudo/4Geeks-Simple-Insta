@@ -1,6 +1,6 @@
 body{margin: 0;}
 h1 { font-family: Tahoma; }
-h3 {float:left; margin-left:  10px; font-family: cursive;}
+h3 {float:left; margin-left:  10px; font-family: Verdana, Geneva, sans-serif; color: blueviolet;}
 h4{font-family: Times new roman;}
 p {
 	float:right;
